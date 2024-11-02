@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'futuristic';
+  background: linear-gradient(135deg, #1a1a2e, #3d3d63);
+  color: white;
+}
